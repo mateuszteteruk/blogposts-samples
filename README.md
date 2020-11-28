@@ -1,2 +1,2 @@
-# kotlin-playground
-Kotlin Playground used to show some examples for blogposts
+# Blogposts samples
+Code samples used in blogposts
